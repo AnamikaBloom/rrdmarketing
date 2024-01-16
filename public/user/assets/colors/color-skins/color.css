@@ -1,0 +1,471 @@
+
+a{
+	color:#10207f;
+	font-weight: 400;
+}
+a:hover {
+	color: #7b53c5;
+}
+
+.text-primary {
+	color:#10207f!important;
+}
+.breadcrumb-item.active {
+	color:#10207f;
+}
+.progress-bar {
+	color: #fff;
+	background-color:#10207f;
+}
+/*---Colors---*/
+.bg-primary {
+	background-color:#10207f!important;
+	color: #fff !important;
+}
+
+.bg-gradient {
+	background: linear-gradient(#3d4192,#10207f) !important;
+}
+/*-- profile --*/
+.profile-head h6 {
+	color:#10207f;
+}
+.proile-rating span {
+	color:#10207f;
+}
+.profile-head .nav-tabs .nav-link.active {
+	border-bottom: 2px solid #10207f;
+}
+.profile-work a:hover {
+	color:#10207f;
+}
+.profile-tab p {
+	color:#10207f;
+}
+/*
+ * Pagination
+ * ----------------------
+ */
+.page-item .page-link {
+	color:#10207f;
+}
+.page-item.active .page-link {
+	background-color:#10207f;
+	border-color:#10207f;
+}
+
+/*
+ * Mail inbox
+ * ----------------------
+ */
+ 
+.mailsearch .btn {
+	background-color: #10207f;
+	border: 1px solid #10207f;
+	color: #fff;
+}
+/*
+ * Buttons
+ * ----------------------
+ */
+
+.btn-primary {
+	background-color:#10207f;
+	border-color:#10207f;
+}
+.btn-primary:focus, .btn-primary:focus:active, .btn-primary:active, .btn-primary:hover {
+	background-color:#07ab43 !important;
+}
+.btn-primary.disabled, .btn-primary:disabled {
+	color: #fff;
+	background-color: #07ab43;
+	border-color: #07ab43;
+}
+.btn-outline-primary {
+	color:#10207f;
+	border-color:#10207f;
+	background-color: transparent;
+	background-image: none;
+}
+.btn-outline-primary:hover {
+	color: #fff;
+	border-color:#10207f;
+	background-color:#10207f;
+}
+.btn-outline-primary:focus, .btn-outline-primary.focus {
+	box-shadow: 0 7px 14px rgba(50, 50, 93, .2), 0 3px 6px rgba(0, 0, 0, .08) !important;
+	border-color:#10207f!important;
+}
+.btn-outline-primary.disabled, .btn-outline-primary:disabled {
+	color:#10207f;
+	background-color: transparent;
+}
+.btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show>.btn-outline-primary.dropdown-toggle {
+	color: #fff;
+	border-color:#10207f;
+	background-color:#10207f;
+}
+.btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .show>.btn-outline-primary.dropdown-toggle:focus {
+	box-shadow: 0 0 0 0 rgba(94, 114, 228, .5);
+	border-color:#10207f!important;
+}
+
+/*-- end btn  --*/
+
+/*
+ * Nav Bar
+ * ----------------------
+ */
+
+.navbar {
+	background: #f5f5f9;
+	box-shadow:0 2px 17px 2px #c2bad2;
+}
+.navbar.active {
+	background-color:#10207f;
+}
+.navbar .form-inline .btn {
+	border: 2px solid #10207f;
+	box-shadow:none;
+}
+.nav-tabs .nav-item .nav-link {
+	color:#10207f;
+}
+
+/*- end navbar --*/
+
+/*
+ * Form Control
+ * ----------------------
+ */
+
+.form-control:focus {
+	border-color:#10207f;
+}
+
+/*-- end form control --*/
+
+/*
+ * Alert
+ * ----------------------
+ */
+.alert.alert-primary {
+	background-color:#10207f;
+}
+/*-- end alert --*/
+
+/*
+ * Cards Design
+ * ----------------------
+ */
+.card.card-primary {
+	border-top: 2px solid #10207f;
+}
+.card .card-header .card-subtitle{
+	color: #dcd9e2;
+    padding-top: 2%;
+}
+/*.card .card-header:after{
+	display: block;
+    content: '';
+    width: 50px;
+    height: 3px;
+    background:#10207f;
+    top: 0;
+    left: 10px;
+    position: absolute;
+}*/
+.card .box h2 span {
+	background:#10207f;
+}
+.card .box ul li:hover a {
+	color:#10207f;
+}
+/*-- end card --*/
+/*
+ * FullCalendar
+ * ----------------------
+ */
+.fc button.fc-state-active {
+	background-color:#10207f;
+}
+/*-- min Calendar ---*/
+
+#calendar_weekdays div {
+	color:#10207f!important;
+}
+#calendar_content div.today {
+	background:#10207f!important;
+}
+/*-- end fullcalendar --*/
+
+.jqvmap-circle {
+	background-color:#10207f;
+}
+.weather ul li {
+	border: 2px solid #10207f;
+	color:#10207f;
+}
+
+/*
+ * User Profile
+ * ----------------------
+ */
+
+.tags li a:hover {
+	background:#10207f;
+	border-color:#10207f;
+}
+
+/*
+ *  Chat
+ * ----------------------
+ */
+.card-chat .chat-content .chat-item.chat-right .chat-details .chat-text {
+	background-color:#10207f;
+}
+
+/*-- listgroup --*/
+.list-group-item.active {
+	color: #fff;
+	background-color:#10207f;
+	border-color:#10207f;
+}
+
+/*-- Badge --*/
+.badge-primary {
+	color: #fff;
+	background-color:#10207f;
+}
+
+/*
+ * Media
+ * ----------------------
+ */
+
+.media .media-right {
+	color:#10207f;
+}
+
+/*
+ * Accordion
+ * ----------------------
+ */
+.accordion .accordion-header[aria-expanded="true"] {
+	background-color:#10207f;
+}
+/* style-1--*/
+
+.acc-1 .accordion-header:hover {
+	background:#10207f;
+}
+.acc-1 .accordion__item  .accordion-header[aria-expanded="true"]{
+	background:#10207f;
+}
+.acc-1 .accordion__item.active .accordion-header{
+	background:#10207f;
+}
+
+/*
+ * Form Elements
+ * ----------------------
+ */
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    background-color:#10207f;
+    border-color:#10207f;
+}
+
+/*---Shop----*/
+
+.prod-cat li ul li a:hover,.prod-cat li ul li a:focus, .prod-cat li ul li.active a , .prod-cat li a:hover,.prod-cat li a:focus, .prod-cat li a.active{
+   color:#10207f;
+}
+.adtocart {
+    background:#10207f;   
+}
+
+/*------Switch---*/
+.custom-switch-input:checked~.custom-switch-indicator {
+	background:#10207f;
+}
+.custom-file-input:focus~.custom-file-label {
+	border-color:#10207f;
+}
+.custom-file-input:focus~.custom-file-label::after {
+	border-color:#10207f;
+}
+.custom-file-label::after {
+	background-color:#10207f;
+    border-left: 1px solid #10207f;
+}
+/*
+ * Loaders
+ * ----------------------
+ */
+/*--circleloader--*/
+.lds-circle > div {
+  background:#10207f;
+}
+/*---ring loaders --*/
+.lds-dual-ring:after {
+  border: 5px solid #10207f;
+  border-color:#10207f transparent #10207f transparent;
+}
+/*-- lines loader --*/
+.lds-facebook div {
+  background:#10207f;
+}
+/*--heart loader --*/
+.lds-heart div {
+  background:#10207f;
+}
+.lds-heart div:after,
+.lds-heart div:before {
+  background:#10207f;
+}
+/*--Ringloader-2 --*/
+.lds-ring div {
+  border: 6px solid #10207f;
+  border-color:#10207f transparent transparent transparent;
+}
+/**-Ringdots-**/
+.lds-roller div:after {
+  background:#10207f;
+}
+/*--hourglass loader--*/
+.lds-hourglass:after {
+  border: 26px solid #10207f;
+  border-color:#10207f transparent #10207ftransparent;
+}
+/**-ripple --*/
+.lds-ripple div {
+  border: 4px solid #10207f;
+}
+/*-- Spinner loader --*/
+.lds-spinner div:after {
+  background:#10207f;
+}
+
+
+/*
+ * Select styles
+ * ----------------------
+ */
+.selectgroup-input:checked+.selectgroup-button {
+	border-color:#10207f;
+	color:#10207f;
+	background: #f1f6f7;
+}
+.selectgroup-input:focus+.selectgroup-button {
+	border-color:#10207f;
+	color:#10207f;
+}
+.showmore-button-inner {
+	color:#10207f;
+}
+
+/*
+ * Chat
+ * ----------------------
+ */
+
+.message-feed:not(.right) .mf-content {
+    background:#10207f;
+}
+.msb-reply button {
+	background:#10207f;
+}
+.msb-reply button:hover {
+    background:#10207f;
+}
+
+/*
+ * Panel
+ * ----------------------
+ */
+.panel-primary{
+	border-color:#10207f;
+}
+.panel-primary >.panel-heading{
+    color: #fff;
+    background-color:#10207f;
+    border-color:#10207f;
+}
+
+/*
+ * Counters
+ * ----------------------
+ */
+.count-timer {
+	color:#10207f;
+}
+
+/** -- popup-chat -- **/
+
+.popup-box .popup-head {
+    background-color:#10207f;
+}
+.bg_none i {
+    border: 1px solid #10207f;
+    color:#10207f;
+}
+
+/*
+ * Tags
+ * ----------------------
+ */
+.tag-primary {
+    background-color:#10207f;
+}
+/*
+ * labels
+ * ----------------------
+ */
+.label-primary{
+	background-color:#10207f;
+}
+
+/*
+ * Switches
+ * ----------------------
+ */
+.custom-switch-input:checked~.custom-switch-indicator {
+	background:#10207f;
+}
+
+/*
+ * Landing page
+ * ----------------------
+ */
+ .wave {
+	background:#10207f;
+}
+
+/*-----Back to Top-----*/
+
+#back-to-top:hover {
+	color:#10207f;
+	border: 2px solid #10207f;
+}
+.header{
+	background:#10207f;
+}
+
+/*--bg-transparents--*/
+.bg-primary-transparent {
+    background-color: rgb(126, 110, 230,0.1) ;
+}
+#back-to-top {
+    background: #10207f;
+}
+#count-down .clock-presenter{
+	background: #10207f;
+}
+.slide-menu a.active{
+	color:#10207f;
+    background: #fff;
+}
+.slide-item.active, .slide-item:hover, .slide-item:focus {
+	text-decoration: none;
+	color: #10207f;
+}
